@@ -3,7 +3,7 @@
 This is a simple Todo application that allows you to ad toggle and delete tasks.
 
 ## Step 1: Create Database
-You need to create a MongoDB database. To do that, go to https://cloud.mongodb.com and create a database. Name it `Todo`. Copy the connection string (check the video in myCourses for the details).
+You need to create a MongoDB database. To do that, go to https://cloud.mongodb.com and create a database. Name it `Todo`. Copy the connection string (check the video in Canvas for the details).
 
 After making the database, you have to update the `app.js` file.
 
